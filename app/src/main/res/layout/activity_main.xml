@@ -16,4 +16,10 @@
         android:layout_height="wrap_content"
         android:text="@string/motion2" />
 
+    <Button
+        android:id="@+id/btn_motion_03"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/motion3" />
+
 </LinearLayout>
