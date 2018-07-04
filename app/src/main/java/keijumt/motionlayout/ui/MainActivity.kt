@@ -22,6 +22,9 @@ class MainActivity : AppCompatActivity() {
         btn_motion_03.setOnClickListener {
             start(R.layout.motion_03)
         }
+        btn_motion_04.setOnClickListener {
+            start(R.layout.motion_04_coodinator)
+        }
     }
 
     private fun start(layoutId: Int) {
